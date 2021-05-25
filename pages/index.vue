@@ -1,11 +1,9 @@
-<template>
-  <Navbar />
-</template>
+<template><div></div></template>
 
 <script>
-import Navbar from '~/components/Navbar.vue'
 export default {
-  components: { Navbar },
+  name: 'Index',
+  layout: 'home',
 }
 </script>
 

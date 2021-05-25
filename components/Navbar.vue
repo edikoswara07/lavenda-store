@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white w-full z-50 fixed shadow-lg py-4">
+  <div class="fixed top-0 z-50 w-full py-4 bg-white shadow-lg">
     <Container>
       <div
         class="
