@@ -8,7 +8,7 @@
           justify-between
           md:flex-row
           md:space-x-8
-          space-y-6
+          space-y-4
           md:space-y-0
         "
       >

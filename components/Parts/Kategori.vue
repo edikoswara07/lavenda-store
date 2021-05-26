@@ -1,8 +1,17 @@
 <template>
   <Container>
     <div class="my-10">
-      <div class="flex items-center w-full">
-        <h3 class="text-lightblue-900 font-semibold text-lg">Kategori</h3>
+      <div class="flex items-center justify-between w-full">
+        <div>
+          <h3 class="text-lightblue-900 font-semibold text-lg">
+            Kategori produk
+          </h3>
+        </div>
+        <div>
+          <span class="font-medium text-xs text-lightblue-700">
+            Lihat semua kategori
+          </span>
+        </div>
       </div>
       <!-- Kategori list -->
       <div class="grid md:grid-flow-col grid-cols-2 md:grid-cols-4 gap-4 my-4">
@@ -27,7 +36,7 @@
                 items-center
                 absolute
                 rounded-md
-                bg-bluegray-900 bg-opacity-25
+                bg-bluegray-900 bg-opacity-20
               "
             >
               <h3

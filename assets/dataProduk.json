@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone running iOS 14",
+    "image": "https://images.unsplash.com/photo-1592898741947-bc9570c9f5bf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aXBob25lfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Handphone",
+    "harga": "400000",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "2",
+    "name": "Women Dress",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJlc3N8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Dress",
+    "harga": "100000",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "3",
+    "name": "Dior dress",
+    "image": "https://images.unsplash.com/photo-1581798117964-aa8a5238c350?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=719&q=80",
+    "kategori": "Red Dress",
+    "harga": "33333",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "4",
+    "name": "Macbook Pro",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYm9va3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Laptop",
+    "harga": "32434234",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "5",
+    "name": "Dekstop MacOs",
+    "image": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Komputer",
+    "harga": "34234324",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "6",
+    "name": "Cemilan gurih",
+    "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25hY2tzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Cemilan",
+    "harga": "234234",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "7",
+    "name": "Mountain Backpack",
+    "image": "https://images.unsplash.com/photo-1499803270242-467f7311582d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFja3BhY2t8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "kategori": "Backpack",
+    "harga": "23423423",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  },
+  {
+    "_id": "8",
+    "name": "Woman Backpacker",
+    "image": "https://images.unsplash.com/photo-1570630358718-4fb324824b3d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "kategori": "Backpacker",
+    "harga": "234234",
+    "keterangan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quam atque ipsa laborum sunt distinctio...",
+    "populer": true
+  }
+]

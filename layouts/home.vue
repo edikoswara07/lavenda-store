@@ -3,6 +3,7 @@
     <Navbar />
     <Hero />
     <LazyPartsKategori />
+    <LazyPartsProduk />
     <Nuxt />
   </div>
 </template>
