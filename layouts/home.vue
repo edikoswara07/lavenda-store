@@ -2,6 +2,7 @@
   <div class="antialiased font-body">
     <Navbar />
     <Hero />
+    <LazyPartsKategori />
     <Nuxt />
   </div>
 </template>

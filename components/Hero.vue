@@ -8,13 +8,43 @@
           justify-between
           md:flex-row
           md:space-x-8
-          space-y-4
+          space-y-6
           md:space-y-0
         "
       >
         <div class="w-full md:w-8/12">
           <div>
-            <div class="relative w-full h-80 rounded-2xl overflow-hidden">
+            <div
+              class="
+                flex
+                items-center
+                relative
+                w-full
+                h-40
+                md:h-80
+                rounded-2xl
+                overflow-hidden
+              "
+            >
+              <div
+                class="
+                  flex
+                  left-4
+                  right-4
+                  bg-opacity-50
+                  absolute
+                  rounded-md
+                  py-10
+                  my-auto
+                "
+              >
+                <h3
+                  class="text-xl md:text-2xl text-lightblue-900 font-semibold"
+                >
+                  {{ dataHero[0].title }}
+                </h3>
+              </div>
+              <div class="w-full h-full absolute"></div>
               <img
                 :src="dataHero[0].image"
                 :alt="dataHero[0].title"
@@ -31,11 +61,39 @@
               space-x-4
               md:space-x-0
               space-y-0
-              md:space-y-8
+              md:space-y-6
             "
           >
             <div class="w-full">
-              <div class="relative w-full h-36 rounded-2xl overflow-hidden">
+              <div
+                class="
+                  flex
+                  items-center
+                  my-auto
+                  relative
+                  w-full
+                  h-36
+                  rounded-2xl
+                  overflow-hidden
+                "
+              >
+                <div
+                  class="
+                    flex
+                    left-4
+                    right-4
+                    bg-opacity-50
+                    absolute
+                    rounded-md
+                    py-10
+                    my-auto
+                  "
+                >
+                  <h3 class="text-sm text-lightblue-900 font-semibold">
+                    {{ dataHero[0].title }}
+                  </h3>
+                </div>
+                <div class="w-full h-full absolute"></div>
                 <img
                   :src="dataHero[1].image"
                   :alt="dataHero[1].title"
@@ -44,7 +102,35 @@
               </div>
             </div>
             <div class="w-full">
-              <div class="relative w-full h-36 rounded-2xl overflow-hidden">
+              <div
+                class="
+                  flex
+                  items-center
+                  my-auto
+                  relative
+                  w-full
+                  h-36
+                  rounded-2xl
+                  overflow-hidden
+                "
+              >
+                <div
+                  class="
+                    flex
+                    left-4
+                    right-4
+                    bg-opacity-50
+                    absolute
+                    rounded-md
+                    py-10
+                    my-auto
+                  "
+                >
+                  <h3 class="text-sm text-lightblue-900 font-semibold">
+                    {{ dataHero[2].title }}
+                  </h3>
+                </div>
+                <div class="w-full h-full absolute"></div>
                 <img
                   :src="dataHero[2].image"
                   :alt="dataHero[2].title"

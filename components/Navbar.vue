@@ -124,22 +124,22 @@ export default {
         {
           _id: 2,
           to: '/products',
-          name: 'Product',
+          name: 'Produk',
         },
         {
           _id: 3,
           to: '/categories',
-          name: 'Category',
+          name: 'Kategori',
         },
         {
           _id: 4,
           to: '/promotions',
-          name: 'Promotions',
+          name: 'Promo',
         },
         {
           _id: 5,
           to: '/blogs',
-          name: 'Blogs',
+          name: 'Blog',
         },
         {
           _id: 6,
